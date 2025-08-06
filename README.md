@@ -1,51 +1,56 @@
-<h1 align="center">🎧⚡ OP Music Bot for Telegram ⚡🎧</h1>
-
+<h1 align="center">🎶 DJ-X Telegram Music Bot 🎶</h1>
 <p align="center">
-  <b>The ultimate Telegram bot to download songs, stream music, and vibe like never before.</b><br>
-  <i>Made for true music lovers. Simple. Fast. Powerful. 🔥</i>
+  <i>“Drop the beat, directly in your DMs!” – A next-level music bot experience on Telegram 🎧🔥</i>
 </p>
 
 <p align="center">
   <a href="https://t.me/YourBotUsername"><img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram"></a>
-  <a href="https://github.com/yourusername/music-bot"><img src="https://img.shields.io/github/stars/yourusername/music-bot?style=for-the-badge"></a>
-  <a href="https://github.com/yourusername/music-bot"><img src="https://img.shields.io/github/license/yourusername/music-bot?style=for-the-badge"></a>
+  <a href="https://github.com/yourusername/DJ-X"><img src="https://img.shields.io/github/stars/yourusername/DJ-X?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/github/license/yourusername/DJ-X?style=for-the-badge"></a>
 </p>
 
 ---
 
-## 🚀 Features
+## 🌟 What is DJ-X?
 
-✅ Download high-quality songs from YouTube  
-🎧 Super fast YouTube audio fetcher  
-🔍 Search songs by name or link  
-💬 Inline mode for fast sharing  
-⚙️ Built with Pyrogram / Aiogram / Node.js *(choose one)*  
-🖥️ 24/7 uptime support (VPS/Heroku/Railway)  
-🔒 Admin-only access (optional)
+> **DJ-X** is your personal Telegram DJ – type a song name or paste a link and get high-quality music instantly!  
+> Powered by YouTube + FFmpeg + pure 🔥 Python magic!
 
 ---
 
-## 🖼️ Preview
+## ⚡ Features
 
-<p align="center">
-  <img src="https://your-image-link.com/preview.png" alt="Bot Screenshot" width="400"/>
-</p>
-
----
-
-## ⚙️ Requirements
-
-- Python 3.8+
-- FFmpeg
-- Telegram Bot Token from [@BotFather](https://t.me/BotFather)
-- API_ID & API_HASH from [my.telegram.org](https://my.telegram.org)
-- (Optional) YouTube API Key
+- 🎵 **/song `<name>`** – Search & download any song
+- 🔗 **/yt `<YouTube link>`** – Convert video to MP3
+- 💬 **Inline mode** – Just type `@YourBotUsername Coldplay` anywhere!
+- ⚙️ Super lightweight and fast ⚡
+- 📦 One-click deploy on Railway/Heroku
+- 🎧 High-quality 320kbps audio
+- 🧠 Coded with ❤️ using Pyrogram
 
 ---
 
-## 📦 Installation
+## 🧩 Tech Stack
+
+- Language: **Python 3.10+**
+- Framework: **Pyrogram**
+- Downloader: **yt-dlp**
+- Audio: **FFmpeg**
+- Hosting: **Railway / Heroku / VPS**
+
+---
+
+## 🚀 Deploy Your Own DJ
+
+### 🔘 Railway (1-Click)
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/YOUR-TEMPLATE-ID)
+
+---
+
+### ⚙️ Manual Setup (VPS/Local)
 
 ```bash
-git clone https://github.com/yourusername/music-bot.git
-cd music-bot
+git clone https://github.com/yourusername/DJ-X.git
+cd DJ-X
 pip install -r requirements.txt
