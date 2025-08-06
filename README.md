@@ -1,34 +1,33 @@
-# 🎵 My Music Bot
+# 🎵 Telegram Music Bot
 
-Welcome to **My Music Bot** – a powerful and customizable Discord music bot built with love! 💖
-
----
-
-## ⚠️ Spoiler Image (Click to Reveal)
-
-<details>
-  <summary>Click here to reveal the image (Spoiler)</summary>
-
-  <br>
-
-  ![Spoiler](https://files.catbox.moe/xz6gqm.jpg)
-
-</details>
+A simple yet powerful Telegram bot to download and share music directly in Telegram — just send a song name or link!
 
 ---
 
-## 🚀 Features
+## ✨ Highlights
 
-- Play music from YouTube
-- Queue system
-- Volume control
-- Easy to use commands
+- 🔍 Search songs via name or YouTube link
+- 🎧 High-quality audio downloads
+- 📥 Fast response with progress updates
+- 🧠 Easy to use and lightweight
+- 💬 Inline support (optional)
 
 ---
 
-## 📦 Installation
+## 📦 Setup Guide
+
+### 🔧 Requirements
+
+- Python 3.8+
+- `ffmpeg` installed
+- Telegram Bot Token from [@BotFather](https://t.me/BotFather)
+- (Optional) API ID & API Hash from [my.telegram.org](https://my.telegram.org)
+
+---
+
+### ⚙️ Installation
 
 ```bash
 git clone https://github.com/yourusername/music-bot.git
 cd music-bot
-npm install
+pip install -r requirements.txt
