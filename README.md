@@ -1,33 +1,32 @@
-# 🎵 Telegram Music Bot
+<h1 align="center">🎧 Telegram Music Bot</h1>
+<p align="center">
+  <b>A fast, powerful and elegant music bot for Telegram.</b><br>
+  <i>Download music, stream from YouTube, and vibe non-stop! 🔥</i>
+</p>
 
-A simple yet powerful Telegram bot to download and share music directly in Telegram — just send a song name or link!
-
----
-
-## ✨ Highlights
-
-- 🔍 Search songs via name or YouTube link
-- 🎧 High-quality audio downloads
-- 📥 Fast response with progress updates
-- 🧠 Easy to use and lightweight
-- 💬 Inline support (optional)
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20with-Python-blue?style=flat-square">
+  <img src="https://img.shields.io/github/license/yourusername/music-bot?style=flat-square">
+  <img src="https://img.shields.io/github/stars/yourusername/music-bot?style=flat-square">
+</p>
 
 ---
 
-## 📦 Setup Guide
+## 🚀 Features
 
-### 🔧 Requirements
-
-- Python 3.8+
-- `ffmpeg` installed
-- Telegram Bot Token from [@BotFather](https://t.me/BotFather)
-- (Optional) API ID & API Hash from [my.telegram.org](https://my.telegram.org)
+- 🎵 Download music from YouTube in high quality
+- 🔍 Search songs using name or link
+- 🧠 Lightweight, fast & optimized
+- 📦 Easy deployment (Heroku, Railway, VPS)
+- ⚙️ Built with **Python** and **Pyrogram / Aiogram**
+- 💬 Inline mode support *(optional)*
+- 🎛️ Control panel for admins *(optional)*
 
 ---
 
-### ⚙️ Installation
+## 🖼️ Preview
 
-```bash
-git clone https://github.com/yourusername/music-bot.git
-cd music-bot
-pip install -r requirements.txt
+> *(Insert your bot screenshots here)*
+
+<p align="center">
+  <img src="https://your-image-link
